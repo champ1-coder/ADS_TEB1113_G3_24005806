@@ -17,7 +17,7 @@ Name: Husna Binti Shahar
 | | | | Task 2 - Stack Array |
 | | | | Task 3 - Queue Linked List |
 | | | | Task 4 - Queue Array |
-| Lab 6 | 8 | 2026/07/03 | |
+| Lab 6 | 8 | 2026/07/03 | Task 1 - Binary search tree |
 | Lab 7 | 9 | 2026/07/10 | |
 | Lab 8 | 10 | 2026/07/17 | |
 | Lab 9 | 11 | 2026/07/24 | |
